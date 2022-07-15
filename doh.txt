@@ -1,3 +1,4 @@
+||cloudflare-dns.com^$important
 ||1dot1dot1dot1.cloudflare-dns.com^$important
 ||8888.google^$important
 ||adblock.doh.mullvad.net^$important
@@ -174,3 +175,4 @@
 ||draco.plan9-ns2.com^$important
 ||example.doh.blockerdns.com^$important
 ||hydra.plan9-ns1.com^$important
+||opera.cloudflare-dns.com^$important
