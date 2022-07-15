@@ -1,5 +1,6 @@
 ||cloudflare-dns.com^$important
 ||1dot1dot1dot1.cloudflare-dns.com^$important
+||one.one.one.one^$important
 ||8888.google^$important
 ||adblock.doh.mullvad.net^$important
 ||adfree.usableprivacy.net^$important
