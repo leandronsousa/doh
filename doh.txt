@@ -9,7 +9,6 @@
 ||blitz.ahadns.com^$important
 ||chrome.cloudflare-dns.com^$important
 ||cloudflare-dns.com^$important
-||commons.host^$important
 ||de.adhole.org^$important
 ||dns-family.adguard.com^$important
 ||dns-nyc.aaflalo.me^$important
