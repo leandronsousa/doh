@@ -132,7 +132,6 @@
 ||ea-dns.rubyfish.cn^$important
 ||eu1.dns.lavate.ch^$important
 ||family.canadianshield.cira.ca^$important
-||family.cloudflare-dns.com^$important
 ||fi.doh.dns.snopyta.org^$important
 ||firefox.dns.nextdns.io^$important
 ||free.bravedns.com^$important
