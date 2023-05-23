@@ -175,3 +175,4 @@
 ||example.doh.blockerdns.com^$important
 ||hydra.plan9-ns1.com^$important
 ||opera.cloudflare-dns.com^$important
+||doh.dns.apple.com
