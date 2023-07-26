@@ -178,3 +178,5 @@
 ||doh.dns.apple.com^$important
 ||google-public-dns-a.google.com^$important
 ||google-public-dns-b.google.com^$important
+||200-218-213-101.bcb.gov.br
+||200-218-214-103.bcb.gov.br
